@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Usuario Administrador",
+    "user": "admin",
+    "email": "admin@admin.net",
+    "address": "Domicilio de prueba",
+    "profile": "vendedor",
+    "interests": [
+      "electro",
+      "hogar",
+      "jugueteria",
+      "vida-sana",
+      "moda"
+    ],
+    "admin": true,
+    "pass": "$2b$12$V1ZF6d70TcluJNjmI.9IsuhihVMJoCc5D50my7PRDKQQu1xfga9lS"
+  },
+  {
+    "id": 2,
+    "name": "Usuario Prueba",
+    "user": "user",
+    "email": "user@user.net",
+    "address": "Dirección del usuario",
+    "profile": "comprador",
+    "interests": [
+      "electro",
+      "vida-sana"
+    ],
+    "pass": "$2b$12$mSREup5KTn6Q43zGabR4Ruf2xD7IrgfH.2aebjPXxRVcYetDZ.EUy"
+  },
+  {
+    "id": 3,
+    "name": "hola",
+    "user": "epeddano",
+    "email": "epedano@gmail.com",
+    "address": "alfonsfs",
+    "profile": "comprador",
+    "interests": [
+      "electro",
+      "hogar"
+    ],
+    "pass": "$2b$12$9svF0aPCtWiMuCfBD0P8/uddvn/fYOIvR1N4wMvOiXM9Y4bWIwnky"
+  },
+  {
+    "id": 4,
+    "name": "giuliana ceballos",
+    "user": "gceballos",
+    "email": "gceballos@gmail.com",
+    "address": "tu puta madre 123",
+    "profile": "comprador",
+    "interests": [
+      "electro",
+      "moda",
+      "jugueteria"
+    ],
+    "pass": "$2b$12$0OVSze6P1ih3rXTxLojaVegpbjR0X4qKteq4Ejgah6LcOq4RKFlDu"
+  }
+]

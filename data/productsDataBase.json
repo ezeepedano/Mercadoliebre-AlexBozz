@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "name": "PALIT NVIDIA GEFORCE RTX 3050 DUAL 8GB GDDR6",
+        "description": "Especificaciones Cantidad de memoria: 8 GB Interfaz de memoria: 128 bits Tipo de DRAM: GDDR6 Reloj gráfico: 1552 MHz Reloj Boost: 1777 MHz Reloj de memoria: 14 Gbps Núcleos CUDA: 2560 Ancho de banda de memoria (GB/seg): 224 Microsoft DirectX: Microsoft DirectX® 12 Ultimate OpenGL: 4.6 Soporte de bus: PCI-E 4.0 HDMI: HDMI 2.1 DisplayPort: DP1.4a x 3 Máxima resolución digital: 7680x4320 Altura: 2 Ranura Tamaño de la placa: 245x119x40mm Potencia de la tarjeta gráfica: 130 W Potencia mínima recomendada del sistema: 5406 Conectores de alimentación suplementarios: 8 pines x 1",
+        "price": 89999,
+        "discount": 2,
+        "image": "3050.jpg",
+        "category": "in-sale"
+    },
+    {
+        "id": 2,
+        "name": "MSI NVIDIA GEFORCE GTX 1660 SUPER VENTUS XS OC 6G",
+        "description": "Memoria 6GB GDDR6 Motor Gráfico NVIDIA® GeForce® GTX 1660 Bus Estándar PCI Express x16 3.0 Interfaz de Memoria 192 bits Velocidad de Reloj de Núcleo (MHZ) Boost: 1815 MHz Velocidad del Reloj de Memoria (MHZ) 14 Gbps Pantallas Máximas 4 Soporte HDCP 2.2 Consumo de Energía (W) 125 vatios Salida DisplayPort x 3 (v1.4) / HDMI 2.0bx Fuente de Alimentación Recomendada (W) 450 vatios Resolución Digital Máxima 7680x4320 Conectores de Alimentación 8 pines x 1 Versión Soportada de DirecTX 12 API Versión Soportada de openGL 4.5 Dimensiones de Tarjeta (mm) 204 x 128 x 42 mm Peso 669 g / 1028 g",
+        "price": 114999,
+        "discount": 3,
+        "image": "1660s.jpg",
+        "category": "in-sale"
+    },
+    {
+        "id": 3,
+        "name": "POWERCOLOR RADEON BC-2235 10GB SOLO MINERIA",
+        "description": "Bus: PCIE 4.0 Coolers: 2 Slot Dual Fan Conector de poder: 1 x 6-pin + 1 x 8-pin Dimensiones: 228*109*37mm Motor Gráfico: NV22 CL Memoria de Video: 10Gb GDDR6 Reloj de Memoria: 16.0 Gbps Puertos: 1x HDMI, 3x DisplayPort Interfaz de memoria: 160",
+        "price": 109999,
+        "discount": 0,
+        "image": "BC-2235.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 4,
+        "name": "APPHIRE RADEON RX 6600 XT NITRO 8GB",
+        "description": "La tarjeta gráfica SAPPHIRE NITRO + AMD Radeon ™ RX 6600 XT para el jugador 1080P definitivo que busca aprovechar gráficos innovadores con imágenes vívidas y soluciones de refrigeración de excelente calidad. Equipada con componentes superiores para manejar escenarios de juegos AAA, la tarjeta gráfica NITRO + AMD Radeon ™ RX 6600 XT es un componente crucial para una experiencia de juego increíble. El diseño estético será una hermosa integración en cualquier compilación de PC.",
+        "price": 119999,
+        "discount": 5,
+        "image": "6600xt.jpg",
+        "category": "in-sale"
+    },
+    {
+        "id": 5,
+        "name": "MSI NVIDIA GEFORCE RTX 2060 VENTUS 12GB OC",
+        "description": "UNIDAD DE PROCESAMIENTO DE GRÁFICOS NVIDIA® GeForce RTX™ 2060 INTERFAZ PCI Express x16 3.0 CORES 2176 Unidades RELOJES CENTRALES Potencia: 1680 MHz VELOCIDAD DE MEMORIA 14 Gbps MEMORIA GDDR6 DE 12 GB",
+        "price": 134199,
+        "discount": 0,
+        "image": "2060.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 6,
+        "name": "PALIT NVIDIA GEFORCE GTX 1050TI STORMX 4GB",
+        "description": "La Palit GeForce ® GTX 1050 Ti StormX está equipada con condensadores sólidos, estranguladores de núcleo de ferrita y un diseño PWM mejorado. Brindarle un mejor rendimiento y una mejor solución térmica. Convierta su PC en una verdadera plataforma de juegos con la rápida y potente GeForce ® GTX 1050 Ti. Funciona con NVIDIA Pascal ™, la arquitectura de GPU más avanzada jamás creada.",
+        "price": 50599,
+        "discount": 0,
+        "image": "1050ti.png",
+        "category": "visited"
+    },
+    {
+        "id": 7,
+        "name": "Notebook Lenovo I3 Intel 8gb Ram",
+        "description": "PROCESADOR / CHIPSET. CPU: Intel Core i3(8a generación) 8130U / 2.2 GHz. Velocidad turbo máxima: 3, 4 GHz. Numero de núcleos: Doble núcleo. Cache: 4 MB. Arquitectura de 64 bit: ss. MEMORIA CACHÉ. Tamaño instalada: 4 MB. ALMACENAMIENTO. Interfaz Serial ATA - 600",
+        "price": 36700,
+        "discount": 5,
+        "image": "img-laptop-lenovo.jpg",
+        "category": "in-sale"
+    },
+    {
+        "id": 8,
+        "name": "Apple iPhone 11 Pro Dual SIM 256 GB",
+        "description": "¡El nuevo smartphone que lo tiene todo! Con este lanzamiento, Apple ha superado todos sus récords. Su diseño se destaca por sus líneas finas y distinguidas a partir de una sola hoja de vidrio resistente, combinada con aluminio de excelente calidad.",
+        "price": 148000,
+        "discount": 2,
+        "image": "img-iphone-11.jpg",
+        "category": "in-sale"
+    },
+    {
+        "id": 9,
+        "name": "Teclado Apple Magic Inalámbrico",
+        "description": "El teclado mágico combina un diseño elegante con una batería recargable incorporada y funciones clave mejoradas. Con un mecanismo de tijera estable debajo de cada tecla, así como un recorrido de teclas optimizado y un perfil bajo, el Teclado Mágico ofrece una experiencia de escritura notablemente cómoda y precisa.",
+        "price": 11399,
+        "discount": 0,
+        "image": "img-apple-magic-keyboard.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 10,
+        "name": "Mouse Inalámbrico Logitech M280",
+        "description": "Uso más cómodo para la mano derecha gracias a la forma contorneada con recubrimiento de goma blanda. Duración de las pilas hasta 18 meses, gracias al diseño para ahorrar energía.El M280 entra automáticamente en estado de suspensión cuando no se está usando.",
+        "price": 1200,
+        "discount": 10,
+        "image": "img-mouse-logitech.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 11,
+        "name": "Parlante Inalámbrico Bose Soundtouch 10",
+        "description": "Parlante Inalámbrico Bose Soundtouch 10. SoundTouch®.La manera más sencilla de reproducir música en todo su hogar de forma inalámbrica. Características. » Marca: Bose. » Modelo: SoundTouch. » Color: Negro",
+        "price": 29990,
+        "discount": 12,
+        "image": "img-parlante-bose.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 12,
+        "name": "Home Theatre Sony Bdv-e4100",
+        "description": "El sonido Surround de 5.1 canales y 1000 W proporciona un audio de verdadero impacto en los efectos especiales de películas y efectos de sonido de música y deportes. Con la tecnología Near Field Communication(NFC) podés disfrutar de Sonido One- Touch para reproducir música de forma instantánea",
+        "price": 32990,
+        "discount": 0,
+        "image": "img-home-theater-sony.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 13,
+        "name": "Smart TV LED Samsung",
+        "description": "Con el Smart TV Samsung UN50MU6100, viví una nueva experiencia visual con la resolución 4K, que te presentará imágenes con gran detalle y de alta calidad. Ahora todo lo que veas cobrará vida con brillo y colores más reales. Gracias a su tamaño de 50\", podrás transformar tu espacio en una sala de cine y transportarte a donde quieras.",
+        "price": 34990,
+        "discount": 0,
+        "image": "img-tv-samsung-smart.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 14,
+        "name": "Sony S6700 Reproductor De Blu-ray ",
+        "description": "Disfruta de tus películas favoritas con hasta cuatro veces más detalles que Full HD, gracias a la conversión de señales 4K. Cuando se conecta a un televisor compatible,un procesador de video avanzado convierte el video estándar en una señal cercana a la resolución 4K (3840 x 2160). Con ocho millones de píxeles, obtendrás imágenes más nítidas y detalladas, y la mayor calidad de la image te permite sentarte más cerca de la pantalla para que te sientas como en el cine.",
+        "price": 10999,
+        "discount": 5,
+        "image": "img-sony-blueray.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 15,
+        "name": "Bicicleta Mountain Bike Fierce Rodado 29",
+        "description": "Bicicleta Mountain Bike Fierce Rodado 29 21 velocidades. Tipo: Mountain Bike. Rodado: 29. Material Cuadro: Aluminio. Talle: 18. Suspensión: Delantera. Velocidades: 21 - Shimano. Sistema de Freno: Disco Mecánico. Llantas: Doble pared.",
+        "price": 15979,
+        "discount": 12,
+        "image": "img-bicicleta-fierce.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 16,
+        "name": "Sony Srs-xb12 Parlante Bluetooth Portátil",
+        "description": "Deja que la música dance cobre vida con EXTRA BASS™ Anima el ambiente con EXTRA BASS™1. Un radiador pasivo trabaja con el parlante monoaural para potenciar los tonos bajos y mejorar los graves, a pesar del tamaño compacto. ",
+        "price": 4699,
+        "discount": 0,
+        "image": "img-parlante-sony.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 17,
+        "name": "Sony Playstation 5",
+        "description": "Este es un producto de prueba lorem ipsum blablabla.",
+        "price": 100000,
+        "discount": 5,
+        "image": "image-1608232133394.png"
+    }
+]
